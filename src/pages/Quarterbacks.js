@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import DashboardCard04 from '../../partials/dashboard/DashboardCard04';
+import DashboardCard04 from '../partials/dashboard/DashboardCard04';
 
 export default function Players() {
   const [data, setData] = useState({ players: [] });

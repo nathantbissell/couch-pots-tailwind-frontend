@@ -10,12 +10,11 @@ import WelcomeBanner from './partials/dashboard/WelcomeBanner';
 import FilterButton from './partials/actions/FilterButton';
 
 // Import pages
-import Dashboard from './pages/Dashboard';
-import Players from './pages/playerViews/Players';
-import Quarterbacks from './pages/playerViews/Quarterbacks';
-import Runningbacks from './pages/playerViews/Runningbacks';
-import WideReceivers from './pages/playerViews/WideReceivers';
-import TightEnds from './pages/playerViews/TightEnds';
+import Players from './pages/Players';
+import Quarterbacks from './pages/Quarterbacks';
+import Runningbacks from './pages/Runningbacks';
+import WideReceivers from './pages/WideReceivers';
+import TightEnds from './pages/TightEnds';
 
 function App() {
   const location = useLocation();

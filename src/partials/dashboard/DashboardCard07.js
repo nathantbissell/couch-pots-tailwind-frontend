@@ -21,6 +21,8 @@ function DashboardCard07(data) {
       case 'TE':
         value = 137;
         break;
+      default:
+        value = 0;
     }
     return value;
   };
