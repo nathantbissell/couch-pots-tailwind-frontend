@@ -7,7 +7,6 @@ import { focusHandling } from 'cruip-js-toolkit';
 import './charts/ChartjsConfig';
 import Sidebar from './partials/Sidebar';
 import WelcomeBanner from './partials/dashboard/WelcomeBanner';
-import FilterButton from './partials/actions/FilterButton';
 
 // Import pages
 import Players from './pages/Players';
