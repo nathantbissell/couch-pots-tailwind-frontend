@@ -5,7 +5,7 @@ import BarChart from '../../charts/BarChart01';
 import { tailwindConfig } from '../../utils/Utils';
 
 function DashboardCard04(props) {
-  const { name, auctionPrice, totalPoints, otherLeagueDraftValue } = props;
+  const { name, auctionPrice, totalPoints, otherLeagueDraftValue, par } = props;
   const chartData = {
     labels: ['20'],
     datasets: [
@@ -32,6 +32,14 @@ function DashboardCard04(props) {
         data: [auctionPrice - otherLeagueDraftValue],
         backgroundColor: tailwindConfig().theme.colors.yellow[500],
         hoverBackgroundColor: tailwindConfig().theme.colors.yellow[600],
+        barPercentage: 0.66,
+        categoryPercentage: 0.66,
+      },
+      {
+        label: 'Pts Above Replacement',
+        data: [par],
+        backgroundColor: tailwindConfig().theme.colors.indigo[500],
+        hoverBackgroundColor: tailwindConfig().theme.colors.indigo[600],
         barPercentage: 0.66,
         categoryPercentage: 0.66,
       },

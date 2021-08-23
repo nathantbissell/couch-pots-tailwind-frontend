@@ -279,6 +279,7 @@ export default function Players() {
               totalPoints={player.totalPoints}
               auctionPrice={player.auctionPrice}
               otherLeagueDraftValue={player.otherLeagueDraftValue}
+              par={player.totalPoints - setPtsAboveReplacementValue(player.position)}
             />
           ))
         )}
