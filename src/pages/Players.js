@@ -102,7 +102,7 @@ export default function Players() {
     return value;
   };
 
-  const filterPlayersByForm = (pos, points, price, ppd) => {
+  const filterPlayersByForm = (pos, points, price, ppd, par) => {
     let filterArray = initial;
 
     if (pos === '') {
@@ -127,8 +127,9 @@ export default function Players() {
         (player) =>
           player.totalPoints >= points &&
           player.auctionPrice >= price &&
-          player.totalPoints - par >=
-            setPtsAboveReplacementValue(player.position) &&
+          (par === 0 ||
+            player.totalPoints - par >=
+              setPtsAboveReplacementValue(player.position)) &&
           player.totalPoints / player.auctionPrice >= ppd
       );
     } else {
@@ -137,8 +138,9 @@ export default function Players() {
           player.position === pos &&
           player.totalPoints >= points &&
           player.auctionPrice >= price &&
-          player.totalPoints - par >=
-            setPtsAboveReplacementValue(player.position) &&
+          (par === 0 ||
+            player.totalPoints - par >=
+              setPtsAboveReplacementValue(player.position)) &&
           player.totalPoints / player.auctionPrice >= ppd
       );
     }
@@ -279,7 +281,10 @@ export default function Players() {
               totalPoints={player.totalPoints}
               auctionPrice={player.auctionPrice}
               otherLeagueDraftValue={player.otherLeagueDraftValue}
-              par={player.totalPoints - setPtsAboveReplacementValue(player.position)}
+              par={
+                player.totalPoints -
+                setPtsAboveReplacementValue(player.position)
+              }
             />
           ))
         )}
