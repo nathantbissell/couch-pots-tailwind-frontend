@@ -1350,6 +1350,406 @@
     "otherLeagueDraftValue": 0.9
   },
   {
+    "name": "Christian Kirk",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 144.0,
+    "average": 10.285714285714286,
+    "otherLeagueDraftValue": 0.49
+  },
+  {
+    "name": "Jakobi Meyers",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 144.0,
+    "average": 10.285714285714286,
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Laviska Shenault Jr.",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 143.0,
+    "average": 10.214285714285714,
+    "otherLeagueDraftValue": 0.44
+  },
+  {
+    "name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 140.0,
+    "average": 8.75,
+    "otherLeagueDraftValue": 0.05
+  },
+  {
+    "name": "Darnell Mooney",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 139.0,
+    "average": 8.6875,
+    "otherLeagueDraftValue": 0.08
+  },
+  {
+    "name": "Gabriel Davis",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 130.0,
+    "average": 8.125,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Zach Pascal",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 125.0,
+    "average": 7.8125,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Hunter Renfrow",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 124.0,
+    "average": 7.75,
+    "otherLeagueDraftValue": 0.07
+  },
+  {
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 123.0,
+    "average": 8.2,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Mecole Hardman",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 121.0,
+    "average": 7.5625,
+    "otherLeagueDraftValue": 0.09
+  },
+  {
+    "name": "Greg Ward",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 119.0,
+    "average": 7.4375,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Josh Reynolds",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 117.0,
+    "average": 7.3125,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Rashard Higgins",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 116.0,
+    "average": 8.923076923076923,
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Antonio Brown",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 115.0,
+    "average": 14.375,
+    "otherLeagueDraftValue": 1.44
+  },
+  {
+    "name": "Travis Fulgham",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 112.0,
+    "average": 8.615384615384615,
+    "otherLeagueDraftValue": 2.82
+  },
+  {
+    "name": "Damiere Byrd",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 112.0,
+    "average": 7.0,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "David Moore",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 107.0,
+    "average": 6.6875,
+    "otherLeagueDraftValue": 0.08
+  },
+  {
+    "name": "A.J. Green",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 105.0,
+    "average": 6.5625,
+    "otherLeagueDraftValue": 0.93
+  },
+  {
+    "name": "Danny Amendola",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 101.0,
+    "average": 7.214285714285714,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Breshad Perriman",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 100.0,
+    "average": 8.333333333333334,
+    "otherLeagueDraftValue": 0.36
+  },
+  {
+    "name": "Anthony Miller",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 99.0,
+    "average": 6.1875,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Scotty Miller",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 99.0,
+    "average": 6.1875,
+    "otherLeagueDraftValue": 0.04
+  },
+  {
+    "name": "Demarcus Robinson",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 98.0,
+    "average": 6.125,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Michael Pittman Jr.",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 96.0,
+    "average": 7.384615384615385,
+    "otherLeagueDraftValue": 0.06
+  },
+  {
+    "name": "Larry Fitzgerald",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 96.0,
+    "average": 7.384615384615385,
+    "otherLeagueDraftValue": 0.16
+  },
+  {
+    "name": "Allen Lazard",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 94.0,
+    "average": 9.4,
+    "otherLeagueDraftValue": 0.16
+  },
+  {
+    "name": "Tre'Quan Smith",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 94.0,
+    "average": 6.714285714285714,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "John Brown",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 93.0,
+    "average": 10.333333333333334,
+    "otherLeagueDraftValue": 0.49
+  },
+  {
+    "name": "Jalen Guyton",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 93.0,
+    "average": 5.8125,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Randall Cobb",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 92.0,
+    "average": 9.2,
+    "otherLeagueDraftValue": 0.08
+  },
+  {
+    "name": "James Washington",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 92.0,
+    "average": 5.75,
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "Michael Thomas",
+    "position": "WR",
+    "auctionPrice": 59,
+    "totalPoints": 91.0,
+    "average": 13.0,
+    "otherLeagueDraftValue": 32.15
+  },
+  {
+    "name": "Willie Snead IV",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 91.0,
+    "average": 7.0,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Keke Coutee",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 90.0,
+    "average": 11.25,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Chris Conley",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 89.0,
+    "average": 5.933333333333334,
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Braxton Berrios",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 89.0,
+    "average": 5.5625,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Isaiah McKenzie",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 87.0,
+    "average": 5.4375,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Henry Ruggs III",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 86.0,
+    "average": 6.615384615384615,
+    "otherLeagueDraftValue": 0.53
+  },
+  {
+    "name": "Cam Sims",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 86.0,
+    "average": 5.375,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Odell Beckham Jr.",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 84.0,
+    "average": 12.0,
+    "otherLeagueDraftValue": 5.84
+  },
+  {
+    "name": "Sammy Watkins",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 83.0,
+    "average": 8.3,
+    "otherLeagueDraftValue": 0.03
+  },
+  {
+    "name": "KJ Hamler",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 83.0,
+    "average": 6.384615384615385,
+    "otherLeagueDraftValue": 0.38
+  },
+  {
+    "name": "Jalen Reagor",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 81.0,
+    "average": 7.363636363636363,
+    "otherLeagueDraftValue": 0.01
+  },
+  {
+    "name": "Deebo Samuel",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 80.0,
+    "average": 11.428571428571429,
+    "otherLeagueDraftValue": 2.27
+  },
+  {
+    "name": "Jakeem Grant",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 80.0,
+    "average": 5.714285714285714,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Golden Tate",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 79.0,
+    "average": 6.583333333333333,
+    "otherLeagueDraftValue": 0.02
+  },
+  {
+    "name": "Tyron Johnson",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 76.0,
+    "average": 6.333333333333333,
+    "otherLeagueDraftValue": 0.0
+  },
+  {
+    "name": "Kenny Golladay",
+    "position": "WR",
+    "auctionPrice": 32,
+    "totalPoints": 72.0,
+    "average": 14.4,
+    "otherLeagueDraftValue": 23.79
+  },
+  {
+    "name": "Preston Williams",
+    "position": "WR",
+    "auctionPrice": 1,
+    "totalPoints": 72.0,
+    "average": 9.0,
+    "otherLeagueDraftValue": 0.06
+  },
+  {
+    "name": "N'Keal Harry",
+    "position": "WR",
+    "auctionPrice": 0,
+    "totalPoints": 68.0,
+    "average": 4.857142857142857,
+    "otherLeagueDraftValue": 0.35
+  },
+  {
     "name": "Travis Kelce",
     "position": "TE",
     "auctionPrice": 32,
