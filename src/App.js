@@ -10,7 +10,7 @@ import WelcomeBanner from './partials/dashboard/WelcomeBanner';
 
 // Import pages
 import Players from './pages/Players';
-import Quarterbacks from './pages/Quarterbacks';
+import PlayerByPosition from './pages/PlayerByPosition';
 import Runningbacks from './pages/Runningbacks';
 import WideReceivers from './pages/WideReceivers';
 import TightEnds from './pages/TightEnds';
@@ -45,7 +45,7 @@ function App() {
                   <Players />
                 </Route>
                 <Route exact path="/qb">
-                  <Quarterbacks />
+                  <PlayerByPosition pos="QB" />
                 </Route>
                 <Route exact path="/rb">
                   <Runningbacks />

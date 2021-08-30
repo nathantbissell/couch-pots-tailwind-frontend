@@ -36,18 +36,14 @@ export default function Players() {
     ],
   };
   useEffect(() => {
-    async function fetchAxios() {
-      const result = await axios(`${localhost}/players`);
-      result.data.players.sort(compare);
-      setData(result.data);
-      setInitialState(result.data);
-    }
-    fetchAxios();
-    if (data.players.length === 0) {
-      basePlayers.players.sort(compare);
-      setData(basePlayers);
-      setInitialState(basePlayers);
-    }
+    // async function fetchAxios() {
+    //   const result = await axios(`${localhost}/players`);
+    // }
+    // fetchAxios();
+
+    basePlayers.players.sort(compare);
+    setData(basePlayers);
+    setInitialState(basePlayers);
   }, []);
 
   function compare(a, b) {
