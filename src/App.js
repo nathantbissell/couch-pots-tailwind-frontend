@@ -48,13 +48,13 @@ function App() {
                   <PlayerByPosition pos="QB" />
                 </Route>
                 <Route exact path="/rb">
-                  <Runningbacks />
+                  <PlayerByPosition pos="RB" />
                 </Route>
                 <Route exact path="/wr">
-                  <WideReceivers />
+                  <PlayerByPosition pos="WR" />
                 </Route>
                 <Route exact path="/te">
-                  <TightEnds />
+                  <PlayerByPosition pos="TE" />
                 </Route>
               </Switch>
             </div>

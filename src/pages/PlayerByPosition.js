@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import DashboardCard07 from '../partials/dashboard/DashboardCard07';
 import BasePlayers from '../basePlayers.json';
-export default function PlayerByPosition(pos) {
+export default function PlayerByPosition(props) {
   const [data, setData] = useState({ players: [] });
 
   const basePlayers = {
@@ -9,12 +9,13 @@ export default function PlayerByPosition(pos) {
   };
 
   useEffect(() => {
-    basePlayers.players.sort(compare);
-    basePlayers.players = basePlayers.players.filter(
-      (player) => player.totalPoints > 50 && player.position === pos
+    let filterResult = { players: [] };
+    filterResult.players = basePlayers.players.filter(
+      (player) => player.totalPoints > 50 && player.position === props.pos
     );
-    setData(basePlayers);
-  }, []);
+    filterResult.players.sort(compare);
+    setData(filterResult);
+  }, [props]);
 
   function compare(a, b) {
     const first = a.totalPoints;
